@@ -66,6 +66,7 @@ body {
     font-style: normal;
     font-weight: 500;
     box-shadow: none;
+    cursor: pointer;
 }
 
 .firstBlock__wrapper{
@@ -151,6 +152,7 @@ body {
     font-size: 30px;
     font-style: normal;
     font-weight: 500;
+    cursor: pointer;
 }
 
 .firstBlock__item > img {
@@ -311,6 +313,7 @@ body {
     font-style: normal;
     font-weight: 500;
     border: none;
+    cursor:pointer;
 }
 
 .fourthBlock__item > img {
@@ -351,6 +354,7 @@ body {
     height: 23px;
     border: none;
     background-color: #fff;
+    cursor: pointer;
     cursor: pointer;
 }
 .fifthBlock__info > button > img{
@@ -420,6 +424,7 @@ body {
     font-size: 30px;
     font-style: normal;
     font-weight: 500;
+    cursor: pointer;
 }
 
 .sixthBlock__item > img {
@@ -486,6 +491,7 @@ body {
     font-style: normal;
     font-weight: 500;
     text-transform: capitalize;
+    cursor: pointer;
 }
 
 
